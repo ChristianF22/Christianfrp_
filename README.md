@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Christian
 
-- 💻 Desenvolvedor Full Stack (iniciante)
+- 💻 Futuro Desenvolvedor Full Stack 
 - 📗 Análise e Desenvolvimento de Sistemas
 - 🔒 Curso de  Introdução ao Hacking e Pentest (concluído)
 ##
